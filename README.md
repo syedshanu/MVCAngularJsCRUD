@@ -4,7 +4,7 @@ Complete Source Code for ASP.NET MVC AngularJs for CRUD with presentation and ot
 From the attached presentation you can learn about MVC, Angular JS CRUD using WEB API 2 with Stored Procedure.
 
 
-Note : Here is the Presentation video from this link https://www.youtube.com/watch?v=5K2bDn_XVS4&feature=youtu.be 
+Note : Here is the Presentation video from this link https://www.youtube.com/watch?v=5K2bDn_XVS4&
 
 Soon I will add the link for my presentation video.
 
